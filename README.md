@@ -1,2 +1,4 @@
 # Grishulmagrania.github.io
-This is my first github website
+This is my activity report for student induction program
+
+| Date| Resource person|Duration|
